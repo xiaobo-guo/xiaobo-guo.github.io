@@ -1,0 +1,10 @@
+@article{Guo_Vosoughi_2022, 
+title={A Large-Scale Longitudinal Multimodal Dataset of State-Backed Information Operations on Twitter}, volume={16}, 
+url={https://ojs.aaai.org/index.php/ICWSM/article/view/19375}, 
+DOI={10.1609/icwsm.v16i1.19375}, 
+number={1}, 
+journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
+author={Guo, Xiaobo and Vosoughi, Soroush}, 
+year={2022}, 
+month={May}, 
+pages={1245-1250}}

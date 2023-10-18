@@ -1,0 +1,14 @@
+@inproceedings{guo-etal-2022-capturing,
+title = "Capturing Topic Framing via Masked Language Modeling",
+author = "Guo, Xiaobo  and
+    Ma, Weicheng  and
+    Vosoughi, Soroush",
+booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+month = dec,
+year = "2022",
+address = "Abu Dhabi, United Arab Emirates",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/2022.findings-emnlp.507",
+doi = "10.18653/v1/2022.findings-emnlp.507",
+pages = "6811--6825",
+}

@@ -1,0 +1,11 @@
+@article{Guo_Ma_Vosoughi_2022, 
+title={Measuring Media Bias via Masked Language Modeling}, 
+volume={16}, 
+url={https://ojs.aaai.org/index.php/ICWSM/article/view/19396}, 
+DOI={10.1609/icwsm.v16i1.19396}, 
+number={1}, 
+journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
+author={Guo, Xiaobo and Ma, Weicheng and Vosoughi, Soroush}, 
+year={2022}, 
+month={May}, 
+pages={1404-1408} }
