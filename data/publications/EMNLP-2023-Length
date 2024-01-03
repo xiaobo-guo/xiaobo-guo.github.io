@@ -1,0 +1,7 @@
+@inproceedings{guo2023length,
+  title={Length Does Matter: Summary Length can Bias Summarization Metrics},
+  author={Guo, Xiaobo and Vosoughi, Soroush},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={15869--15879},
+  year={2023}
+}
